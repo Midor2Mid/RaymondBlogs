@@ -68,7 +68,7 @@ export default function Home() {
           transition={{ delay: 0.5 }}
           className="text-5xl font-bold mb-4 text-center"
         >
-          John Doe
+          Raymond Tran
         </motion.h1>
 
         <motion.p
@@ -86,7 +86,7 @@ export default function Home() {
 
         <div className="flex space-x-4 mb-12">
           <Button asChild variant="outline" className="bg-white text-purple-900 hover:bg-purple-100">
-            <a href="/john-doe-cv.pdf" download>
+            <a href="/raymond-tran-cv.pdf" download>
               Download CV
             </a>
           </Button>
