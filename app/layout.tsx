@@ -22,7 +22,7 @@ export default function RootLayout({
         <header className="bg-primary text-primary-foreground p-4">
           <nav className="container mx-auto flex justify-between items-center">
             <a href="/" className="text-2xl font-bold">
-              My Site
+              Raymond's Corner
             </a>
             <ul className="flex space-x-4">
               <li>
